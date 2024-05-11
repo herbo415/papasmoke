@@ -1,0 +1,130 @@
+img.wp-image-16 {
+    width: 98px !important;
+}
+
+.et_pb_section_3_tb_header.et_pb_section {
+    background-color: #fffefa !important;
+}
+
+.et_pb_text_1 h1 {
+    font-family: 'Chalet',Helvetica,Arial,Lucida,sans-serif;
+    font-size: 30px;
+    color: #000000!important;
+    letter-spacing: -0.45px;
+    line-height: 47px;
+    text-align: left;
+}
+
+.sap-icon{
+    font-size: 33px !important;
+}
+
+.et_pb_blurb_description{
+    /* display: none !important;*/
+}
+
+.et_pb_section.et_pb_section_3_tb_header.header-bar.et_pb_with_background.et_section_regular {
+    background-color: white !important;
+}
+
+
+.custom-cards img {
+    width: 200px !important;
+    margin-top: 10px;
+}
+
+.custom-a-social{
+    color: black !important;
+}
+
+
+
+/*.feature-slider {
+    background-position: top !important;
+}*/
+
+
+@media only screen and (max-width: 620px) {
+
+    .feature-slider {
+        background-size: cover;
+        background-position: bottom !important;
+        min-height: 290px !important;
+    }
+
+
+    .paypal-form{
+        text-align: center !important;
+    }
+}
+
+.cs-sold-out{
+    color: red;
+}
+
+p.custom-btn-comprar a {
+    background-color: #ff000000 !important;
+    color: black !important;
+    border: solid 1px !important;
+}
+
+/*
+@media only screen and (max-width: 980px){
+    .feature-slider {
+        min-height: 180px;
+    }
+}
+*/
+
+
+a.more.btn.btn--black {
+    background-color: transparent;
+    border: solid 1px;
+}
+
+
+
+/*HIDE TOP BAR*/
+
+.et_pb_row.et_pb_row_0_tb_header {
+    display: none;
+}
+
+
+.et_pb_row.et_pb_row_4_tb_header {
+    background-color: white;
+}
+
+
+
+.et_pb_text_3 h2 {
+    font-size: 80px;
+    line-height: 80.77px;
+}
+
+.slider-content.et_pb_row {
+    display: none;
+}
+
+p.custom-intro-text {
+    font-size: 25px;
+    line-height: 25px;
+}
+
+/*h1 {
+    text-align: center !important;
+}
+
+p.custom-intro-text {
+    text-align: center !important;
+}
+*/
+
+
+.et_pb_module.et_pb_text.et_pb_text_3.et_pb_text_align_left.et_pb_bg_layout_light.custom-vuela-alto {
+    margin-bottom: 0 !important;
+}
+
+h2.custom-h2-text {
+    color: white !important;
+}
